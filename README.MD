@@ -18,4 +18,8 @@ src="https://cdn.discordapp.com/attachments/1046837773790883912/1106351763625361
 
 - C++/C#
 
+# Certificates
+
+- https://www.codingame.com/profile/ccd6b967095787b4dccf520fa340e42d1284225
+
 # Everything here is a shitpost
